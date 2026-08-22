@@ -1,4 +1,4 @@
-<img width="1920" height="884" alt="panorama_overlay" src="https://github.com/user-attachments/assets/bbf82013-1eec-4b26-9a90-66c06c415d19" />
+<img width="1586" height="992" alt="cao" src="https://github.com/user-attachments/assets/b0188135-a555-4ed9-a760-64ac79d8a44d" />
 
 ## Hi, I'm Oceanami, a passionate Software Engineer who loves turning ideas into reality through code. 
 
