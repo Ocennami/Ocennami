@@ -8,6 +8,12 @@ You can call me Oceanami or Sousanah/Lushira, these are other names.
 
 ---
 
+## Commits
+
+<img src="https://raw.githubusercontent.com/Ocennami/Ocennami/output/snake.svg" alt="Snake animation" />
+
+---
+
 ## &#x1f4c8; My Discord status
 [![Discord Presence](https://lanyard.cnrad.dev/api/746654485459238923?idleMessage=&borderRadius=10px)](https://discord.com/users/746654485459238923)
 
